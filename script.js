@@ -1,3 +1,3 @@
-const add = function add (a,d){
+const add = function calculator (a,d){
     return a+d;
 }
