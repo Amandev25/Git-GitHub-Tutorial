@@ -7,3 +7,6 @@ function username(){
     return `User_Name is ${name} + ${surname}`;
 }
 
+let age = function add(a,b){
+    return a+b;
+}
