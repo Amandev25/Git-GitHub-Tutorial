@@ -1,2 +1,3 @@
-console.log("hii this is aman yadav")
-console.log("hello")
+const name = "aman yadav";
+const age = 22;
+
