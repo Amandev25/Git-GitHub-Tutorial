@@ -10,6 +10,7 @@ function saymyName()
 // this is a new feature
 function new_feature()
 {
-    console.log("this is a new feature");
+    console.log("this is a new featureA");
+    console.log("this is a new featureB");
     
 }
