@@ -14,3 +14,8 @@ function new_feature()
     console.log("this is a new featureB");
     
 }
+// In branch feature b
+function feature_b()
+{
+    console.log(`Hiii ${name}`);
+}
